@@ -13,7 +13,7 @@ class ListExamples {
   static List<String> filter(List<String> list, StringChecker sc) {
 
     // trying to crash my grade.sh script
-    System.out.println("Tests run: nothing, trying to crash");
+//    System.out.println("Tests run: nothing, trying to crash");
     
     
     if(list.size() == 0) { return list; }
